@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+## Github Pages를 테스트합니다. 
 
-You can use the [editor on GitHub](https://github.com/woonjjang/githubpages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+깃허브 페이지 (Github Pages)는 텍스트 중심의 간단한 페이지를 배포하기 좋습니다. 
 
 ```markdown
-Syntax highlighted code block
+
+관련된 표시를 하면 마크다운형식이 적용되는 영역을 제공할 수 있습니다. 
+```
+
+### Markdown을 사용하는 방법
+
+```markdown
+관련된 표시를 하면 마크다운형식이 적용되는 영역을 제공할 수 있습니다. 
 
 # Header 1
 ## Header 2
@@ -26,12 +27,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/woonjjang/githubpages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+사용할 수 있는 마크다운 정보입니다.  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
